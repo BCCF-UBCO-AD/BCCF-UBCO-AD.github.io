@@ -1,0 +1,3 @@
+[submodule "extern/plugin"]
+	path = extern/plugin
+	url = https://github.com/BCCF-UBCO-AD/Orthanc-TMI.git
